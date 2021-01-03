@@ -1,5 +1,5 @@
 GET http://localhost:3000/posts
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2MDk3MTM3MDR9.JM6DQosyvdqGkyQ8-RSTkyMQQ48XHeo3qRyonkkAjjg
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2MDk3MTQxNDZ9.YPK93-tbDex0LxjNeGO0PQwCQJMt4kH2OWWTEPFGdJ4
 
 ###
 
@@ -7,5 +7,5 @@ POST http://localhost:3000/login
 
 Content-Type: application/json
 {
-    "username":"Sunshine"
+    "username":"Cookie"
 }
